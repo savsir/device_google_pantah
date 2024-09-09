@@ -30,11 +30,6 @@
     <!-- Margin on the right side of the system icon group on Keyguard. -->
     <dimen name="system_icons_keyguard_padding_end">6.5dp</dimen>
 
-    <!-- Camera 1 is the front camera -->
-    <string translatable="false" name="config_protectedCameraId">1</string>
-
-    <bool name="config_enableDisplayCutoutProtection">true</bool>
-
     <!-- Location on the screen of the center of the physical power button. -->
     <dimen name="physical_power_button_center_screen_location_y">828px</dimen>
 
