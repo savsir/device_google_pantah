@@ -18,4 +18,9 @@
 <resources>
     <!-- the padding on the top of the statusbar (usually 0) -->
     <dimen name="status_bar_padding_top">0dp</dimen>
+    
+    <!--  In landscape we need adjust it for dual notification shade
+          in regular screen look more better  -->
+    <dimen name="qs_header_system_icons_area_height">0dp</dimen>
+    <dimen name="qs_panel_padding_top">0dp</dimen>
 </resources>
